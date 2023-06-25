@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+    margin-top: 23px;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: 'Caveat', cursive;
+    font-family: 'Nunito', sans-serif;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    border-radius: 18px;
+    font-size: 34px;
+    height: 60px;
+    width: auto;
+    border: 5px solid green;
+}
+
+button {
+    border-radius: 20px;
+    font-size: 40px;
+    background-color: #A0D8B3;
+    width: 102px;
+    height: 80px;
+    margin: 5px;
+}
+
+.calculator {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: #9AC5F4;
+}
